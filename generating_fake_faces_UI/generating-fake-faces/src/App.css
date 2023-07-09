@@ -1,0 +1,25 @@
+.app-container {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  margin-top: 50px !important;
+}
+
+.app-title {
+  text-align: center !important;
+  margin-bottom: 20px !important;
+}
+
+.input-container {
+  margin-bottom: 10px !important;
+}
+
+.generate-button {
+  margin-bottom: 20px !important;
+  background-color: blanchedalmond;
+}
+
+img {
+  max-width: 100%;
+  margin-top: 20px;
+}
